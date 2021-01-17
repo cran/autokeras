@@ -1,7 +1,7 @@
 Package: autokeras
 Type: Package
 Title: R Interface to 'AutoKeras'
-Version: 1.0.1
+Version: 1.0.12
 Authors@R: c(
     person(given = "Juan Cruz", family = "Rodriguez",
         role = c("aut", "cre"), email = "jcrodriguez@unc.edu.ar"),
@@ -22,11 +22,11 @@ BugReports: https://github.com/r-tensorflow/autokeras/issues
 LazyData: true
 Depends: R (>= 3.1)
 Imports: keras, methods, reticulate, stats
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 Suggests: testthat, covr
 NeedsCompilation: no
-Packaged: 2020-02-11 00:16:09 UTC; jcrodriguez
+Packaged: 2021-01-16 23:52:24 UTC; jcrodriguez
 Author: Juan Cruz Rodriguez [aut, cre],
   Data Analytics at Texas A&M (DATA) Lab [cph]
 Repository: CRAN
-Date/Publication: 2020-02-20 09:50:03 UTC
+Date/Publication: 2021-01-17 05:20:02 UTC
